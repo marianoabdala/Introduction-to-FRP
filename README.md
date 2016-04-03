@@ -1,4 +1,4 @@
-# Introduction-to-FRP
+# Introduction to FRP
 
 Companion sample project from FRP Intro series:  
 http://zerously.com/2016/03/20/introduction-to-frp-pt1.html  
